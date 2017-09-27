@@ -22,6 +22,7 @@ You can find the videojs license file in the vendor directory, changes made to t
    - `video.novtt.js` to `video-novtt.js`
    - `video-js.css` to `video.css.erb`
    - `video-js-cdn.css` to `video-cdn.css`
+ - `video-js.css` was changed to load assets via rails `asset_path`
 
 ## Installation
 
