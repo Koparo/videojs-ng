@@ -73,14 +73,13 @@ Add the following directive to your JavaScript manifest file (application.js):
 By default videojs ships with Apache 2 licensed vtt.js use the novtt include
 in application.js if you want to avoid it:
 
-	//= require video-novtt
+    //= require video-novtt
 
 #### IE8 support
 
-if you happen to need ie8 support include (application.js):
+If you happen to need ie8 support include (application.js):
 
     //= require video-ie8
-
 
 ### Languages
 
